@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MCC Course Finder 2</string>
+    <string name="hello_courses">Hello MCC Courses!</string>
+    <string name="filter_button_text">Filter</string>
+    <string name="reset_button_text">Reset</string>
+</resources>
